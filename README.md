@@ -1,6 +1,4 @@
-Here’s a professional description and objective for your GitHub repository:
 
----
 
 ### **Coffee Sales Dashboard in Excel**
 
